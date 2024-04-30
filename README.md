@@ -87,4 +87,5 @@ APPLICATION :
 GPUs have become essential components in various applications, from gaming to scientific research and artificial intelligence.
 
 CONCLUSION :
+
 GPUs have revolutionized various fields by enabling efficient parallel processing and accelerating computationally intensive tasks. Their specialized architecture, consisting of thousands of processing cores, allows them to perform traditional CPUs in certain workloads, making them invaluable tools in areas such as computer graphics, video rendering, scientific simulations, and machine learning. As technology continues to advance, GPUs are expected to play an increasingly significant role in various applications, enabling faster and more efficient computations.
