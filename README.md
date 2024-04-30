@@ -5,7 +5,7 @@ How does a GPU works ?
 SOLUTION:
 
 GPU [GRAPHICS PROCESSING UNITS]:
-
+INTRODUCTION:
 GPUs (Graphics Processing Units) are specialized processors designed to handle computationally intensive tasks, particularly in the realm of computer graphics, video rendering, and parallel computing. Here's an introduction, description, summary, and explanation of their working process, along with a conclusion.
 INTRODUCTION:
 
