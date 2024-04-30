@@ -7,6 +7,7 @@ SOLUTION:
 GPU [GRAPHICS PROCESSING UNITS]:
 INTRODUCTION:
 GPUs (Graphics Processing Units) are specialized processors designed to handle computationally intensive tasks, particularly in the realm of computer graphics, video rendering, and parallel computing. Here's an introduction, description, summary, and explanation of their working process, along with a conclusion.
+
 INTRODUCTION:
 
 Graphics processing unit, a specialized processor originally designed to accelerate graphics rendering for video games and computer-aided design (CAD) applications. In simple terms, a GPU is like a super-fast calculator that can perform millions or billions of calculations at the same time. This makes GPUs incredibly efficient at rendering high-resolution graphics, images, and video, as well as handling other tasks that involve parallel processing of large amounts of data.
