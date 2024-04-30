@@ -69,11 +69,17 @@ Working Process:
 In depth GPU working :
 
   Pipelining: GPUs use a technique called pipelining, which allows them to process multiple tasks concurrently. The graphics pipeline is divided into several stages, such as vertex processing, geometry processing, rasterization, and pixel processing. Each stage handles a specific part of the rendering process, and the stages work in parallel on different parts of the data.
+ 
  Texture mapping: GPUs are designed to perform texture mapping operations efficiently. Texture mapping is the process of applying an image (texture) onto a 3D model, which is essential for creating realistic graphics.
+
  Rasterization: GPUs excel at rasterization, which is the process of converting 3D geometric data into a 2D raster image by determining which pixels should be illuminated and with what color.
+
  Programmable shaders: Modern GPUs have programmable shaders, which are small programs that run on the GPU cores. Vertex shaders manipulate the positions of vertices, while pixel shaders calculate the color of each pixel based on lighting, textures, and other effects.
+
  Memory management: GPUs have their own dedicated memory (video RAM or VRAM) optimized for high-bandwidth data transfers. This memory is used to store textures, geometry data, and other rendering-related information.
+
  Unified shaders: In recent GPU architectures, the distinction between vertex and pixel shaders has been blurred, and GPUs now have unified shaders that can handle different types of shading operations.
+
  GPGPU (General-Purpose Computing on GPU): Modern GPUs can also be used for general-purpose computing tasks beyond graphics rendering, such as machine learning, scientific simulations, and data processing.
 
 APPLICATION :
