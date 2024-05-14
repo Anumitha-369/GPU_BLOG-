@@ -1,6 +1,6 @@
-#**PROBLEM STATEMENT :**
+# **PROBLEM STATEMENT :**
 
-##**How does a GPU works ?**
+## **How does a GPU works ?**
 
 ##SOLUTION:
 
@@ -9,7 +9,7 @@
 
 Graphics processing unit, a specialized processor originally designed to accelerate graphics rendering for video games and computer-aided design (CAD) applications. In simple terms, a GPU is like a super-fast calculator that can perform millions or billions of calculations at the same time. This makes GPUs incredibly efficient at rendering high-resolution graphics, images, and video, as well as handling other tasks that involve parallel processing of large amounts of data.
 
-##**DESCRIPTION:**
+## DESCRIPTION:
 
     A GPU is packed with thousands of tiny processors called cores, each capable of performing a specific calculation or operation simultaneously. This massively parallel architecture allows GPUs to excel at tasks that involve repeating the same operation across a large set of data, such as rendering 3D graphics, images, or videos.
      For an instance , in a simple manner , 
