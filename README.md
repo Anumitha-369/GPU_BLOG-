@@ -11,8 +11,7 @@ Graphics processing unit, a specialized processor originally designed to acceler
 
 ##**DESCRIPTION:**
 
-     A GPU is packed with thousands of tiny processors called cores, each capable of performing a specific calculation or operation simultaneously. This massively parallel architecture allows GPUs to excel at tasks that involve
-repeating the same operation across a large set of data, such as rendering 3D graphics, images, or videos.
+    A GPU is packed with thousands of tiny processors called cores, each capable of performing a specific calculation or operation simultaneously. This massively parallel architecture allows GPUs to excel at tasks that involve repeating the same operation across a large set of data, such as rendering 3D graphics, images, or videos.
      For an instance , in a simple manner , 
 Imagine you need to paint a massive mural on a wall. A CPU would be like a single artist trying to paint the entire mural one brush stroke at a time. In contrast, a GPU would be like having thousands of tiny artists working in parallel, each painting a tiny portion of the mural simultaneously. With so many workers collaborating, the mural can be completed much faster.
 Their ability to process vast amounts of data simultaneously makes them indispensable in fields that require high-performance computing.
@@ -86,3 +85,10 @@ GPUs have become essential components in various applications, from gaming to sc
 ##**CONCLUSION** :
 
 GPUs have revolutionized various fields by enabling efficient parallel processing and accelerating computationally intensive tasks. Their specialized architecture, consisting of thousands of processing cores, allows them to perform traditional CPUs in certain workloads, making them invaluable tools in areas such as computer graphics, video rendering, scientific simulations, and machine learning. As technology continues to advance, GPUs are expected to play an increasingly significant role in various applications, enabling faster and more efficient computations.
+
+
+#TEAM MEMBERS:
+
+1. **ANUMITHA J** 
+2. **THIRUKUDA DEVI DKL**
+3. **GUNAL P**
